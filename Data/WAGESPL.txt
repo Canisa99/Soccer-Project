@@ -1,0 +1,601 @@
+Player;Yearly Salary;Age;Position;Nationality
+Romelu Lukaku;18200000;28;ST;Belgium
+N'Golo Kanté;15080000;30;DM;France
+Timo Werner;13936000;25;AM L ST;Germany
+Saúl;10764000;26;DM M RLC;Spain
+Ben Chilwell;9880000;24;D/WB L;England
+César Azpilicueta;7800000;31;D RLC;Spain
+Mateo Kovacic;7800000;27;DM AM C;Croatia
+Ruben Loftus-Cheek;7800000;25;AM C;England
+Kai Havertz;7800000;22;AM/F C;Germany
+Christian Pulisic;7800000;22;AM RLC;U.S.A.
+Kepa Arrizabalaga;7540000;26;GK;Spain
+Callum Hudson-Odoi;6240000;20;WB R AM RLC;England
+Jorginho;5720000;29;DM;Italy
+Antonio Rudiger;5200000;28;D RC;Germany
+Marcos Alonso;5200000;30;D/WB/M L;Spain
+Ross Barkley;5200000;27;AM C;England
+Hakim Ziyech;5200000;28;AM RLC;Morocco
+Thiago Silva;4940000;36;D C;Brazil
+Andreas Christensen;4316000;25;D C DM;Denmark
+Mason Mount;3952000;22;AM RLC;England
+Reece James;3016000;21;D RC;England
+Edouard Mendy;2704000;29;GK;Senegal
+Charly Musonda;2184000;24;AM RLC;Belgium
+Malang Sarr;1768000;22;D LC;France
+Lewis Baker;1560000;26;DM AM C;England
+Marcus Bettinelli;1508000;29;GK;England
+Trevoh Chalobah;624000;22;D C DM;England
+Bryan Fiabema;286000;18;AM RL ST;Norway
+Bashir Humphreys;182000;18;D C DM;England
+Derrick Abu;176800;17;D/WB RL;England
+Yerry Mina;6240000;26;D C;Colombia
+Abdoulaye Doucouré;6240000;28;DM AM C;France
+Allan;6240000;30;DM;Brazil
+André Gomes;6240000;27;M C;Portugal
+Jordan Pickford;5720000;27;GK;England
+Richarlison;5720000;24;AM RL ST;Brazil
+Alex Iwobi;5200000;25;WB R AM RLC;Nigeria
+Fabian Delph;4784000;31;D L DM;England
+Jean-Philippe Gbamin;3900000;25;D C DM;Ivory Coast
+Dele Alli;4160000;25;AM LC F C;England
+Dominic Calvert-Lewin;3744000;24;AM RL ST;England
+Michael Keane;3588000;28;D C;England
+Cenk Tosun;3588000;30;ST;Turkey
+Ben Godfrey;3536000;23;D RC DM;England
+Seamus Coleman;3536000;32;D/WB/M R;Ireland
+Mason Holgate;3328000;24;D RC;England
+Andros Townsend;2496000;29;AM RL;England
+Asmir Begovic;2236000;34;GK;Bosnia & Herzegovina
+Salomón Rondón;2236000;31;ST;Venezuela
+Demarai Gray;2184000;25;AM RLC;Jamaica
+Tom Davies;1664000;23;DM;England
+Jonjoe Kenny;780000;24;D/WB R;England
+Andy Lonergan;286000;37;GK;England
+Jarrad Branthwaite;265200;19;D RLC;England
+Anthony Gordon;130000;20;AM RLC F C;England
+Charlie Whitaker;72800;17;AM RLC;England
+Einar Iversen;67600;20;DM;Norway
+Ellis Simms;67600;20;ST;England
+Joe Anderson;57200;20;D L;England
+Imam Jagne;57200;17;M C;Sweden
+Rodrigo;5200000;30;AM RLC F C;Spain
+Patrick Bamford;3848000;27;AM/F C;England
+Raphinha;3276000;24;AM RL;Brazil
+Jack Harrison;3120000;24;AM RL;England
+Diego Llorente;2964000;27;D C;Spain
+Júnior Firpo;2860000;24;D/WB L;Spain
+Stuart Dallas;2756000;30;D RL AM RLC;N.Ireland
+Daniel James;2704000;23;AM RL;Wales
+Illan Meslier;2132000;21;GK;France
+Robin Koch;1976000;24;D C DM;Germany
+Kalvin Phillips;1976000;25;DM;England
+Liam Cooper;1820000;29;D C;Scotland
+Luke Ayling;1820000;29;D RC;England
+Mateusz Klich;1768000;31;AM C;Poland
+Pascal Struijk;1508000;21;D C DM;Holland
+Adam Forshaw;1456000;29;DM;England
+Tyler Roberts;1144000;22;AM RLC F C;Wales
+Jamie Shackleton;884000;21;D R M C;England
+Kristoffer Klaesson;780000;20;GK;Norway
+Crysencio Summerville;436800;20;AM RL;Holland
+Charlie Cresswell;280800;18;D C;England
+Joe Gelhardt;265200;19;AM/F C;England
+Cody Drameh;228800;19;D/WB RL;England
+Nohan Kenneh;202800;18;D C DM;England
+Lewis Bate;156000;18;DM;England
+Sam Greenwood;135200;19;AM RLC F C;England
+Amari Miller;130000;18;AM R ST;England
+Dani van den Heuvel;124800;18;GK;Holland
+Jack Jenkins;109200;19;DM;England
+Liam McCarron;104000;20;AM RL;England
+Virgil van Dijk;12480000;30;D C;Holland
+Thiago;11700000;30;DM AM C;Spain
+Mohamed Salah;11700000;29;AM RL ST;Egypt
+Sadio Mané;10400000;29;AM RLC F C;Senegal
+Alisson;9880000;28;GK;Brazil
+Jordan Henderson;9880000;31;DM;England
+Fabinho;9360000;27;D RC DM;Brazil
+Roberto Firmino;9360000;29;AM RLC F C;Brazil
+Andrew Robertson;8320000;27;D/WB L;Scotland
+Trent Alexander-Arnold;8320000;22;D/WB R M C;England
+James Milner;7800000;35;WB RL DM M RLC;England
+Joel Matip;7280000;29;D C;Cameroon
+Naby Keita;6760000;26;DM;Guinea
+Alex Oxlade-Chamberlain;6500000;27;AM RC;England
+Diogo Jota;6240000;24;AM RL ST;Portugal
+Luis Díaz;5200000;24;AM LC;Colombia
+Joe Gomez;4420000;24;D RLC;England
+Divock Origi;4264000;26;AM L ST;Belgium
+Takumi Minamino;3744000;26;AM RLC F C;Japan
+Ibrahima Konaté;3692000;22;D C;France
+Loris Karius;3380000;28;GK;Germany
+Kostas Tsimikas;3380000;25;D/WB L;Greece
+Adrián;3276000;34;GK;Spain
+Curtis Jones;2444000;20;AM LC;England
+Caoimhin Kelleher;1664000;22;GK;Ireland
+Harvey Elliott;1092000;18;AM RLC;England
+Nathan Phillips;988000;24;D C;England
+Neco Williams;468000;20;D/WB R;Wales
+Conor Bradley;176800;18;D/WB/AM R;N.Ireland
+Elijah Dixon-Bonner;171600;20;DM AM C;England
+Kevin De Bruyne;13000000;30;AM RLC;Belgium
+Jack Grealish;13000000;25;AM RLC;England
+John Stones;10400000;27;D C;England
+Raheem Sterling;10400000;26;AM RL;England
+Fernandinho;9360000;36;D C DM;Brazil
+Ederson;8320000;27;GK;Brazil
+Rúben Dias;8320000;24;D C;Portugal
+Riyad Mahrez;8320000;30;AM RLC;Algeria
+Kyle Walker;7800000;31;D/WB R;England
+Ilkay Gundogan;7800000;30;DM AM C;Germany
+Bernardo Silva;7800000;26;AM RC;Portugal
+João Cancelo;7280000;27;D/WB RL M R;Portugal
+Aymeric Laporte;6240000;27;D C;Spain
+Rodri;6240000;25;DM;Spain
+Nathan Aké;5200000;26;D LC DM;Holland
+Phil Foden;5200000;21;AM RLC;England
+Gabriel Jesus;4732000;24;AM RL ST;Brazil
+Oleksandr Zinchenko;3068000;24;D/WB L AM RLC;Ukraine
+Zack Steffen;2600000;26;GK;U.S.A.
+Julián Álvarez;2600000;21;AM RLC F C;Argentina
+Scott Carson;1976000;35;GK;England
+Kayky;1300000;18;AM R;Brazil
+Cole Palmer;624000;19;AM RLC;England
+Jayden Braaf;421200;18;AM RL;Holland
+Liam Delap;416000;18;ST;England
+Iker Pozo;317200;20;DM;Spain
+Juan Larios;317200;17;D/WB L;Spain
+Mikki van Sas;306800;17;GK;Holland
+Roméo Lavia;296400;17;DM;Belgium
+Finley Burns;275600;18;D C;England
+Cristiano Ronaldo;24960000;36;AM RL ST;Portugal
+David De Gea;18200000;30;GK;Spain
+Paul Pogba;15080000;28;AM LC;France
+Raphael Varane;14300000;28;D C;France
+Jadon Sancho;13000000;21;AM RL;England
+Harry Maguire;9880000;28;D C;England
+Marcus Rashford;9360000;23;AM L ST;England
+Edinson Cavani;8320000;34;ST;Uruguay
+Luke Shaw;7800000;26;D/WB L;England
+Victor Lindelöf;7280000;26;D C;Sweden
+Juan Mata;7020000;33;AM RC;Spain
+Dean Henderson;6240000;24;GK;England
+Nemanja Matic;6240000;32;DM;Serbia
+Fred;6240000;28;DM;Brazil
+Phil Jones;5720000;29;D C;England
+Bruno Fernandes;5200000;26;AM C;Portugal
+Donny van de Beek;5200000;24;AM C;Holland
+Eric Bailly;4524000;27;D C;Ivory Coast
+Aaron Wan-Bissaka;4316000;23;D/WB R;England
+Jesse Lingard;4160000;28;AM RLC;England
+Alex Telles;4056000;28;D/WB L;Brazil
+Mason Greenwood;3848000;19;AM R ST;England
+Scott McTominay;3796000;24;D C DM;Scotland
+Tom Heaton;2964000;35;GK;England
+Diogo Dalot;1664000;22;D/WB RL M R;Portugal
+Lee Grant;1560000;38;GK;England
+Amad Diallo;1456000;19;AM RLC;Ivory Coast
+Hannibal;676000;18;AM LC;Tunisia
+Shola Shoretire;416000;17;AM RLC;England
+Anthony Elanga;286000;19;AM RL ST;Sweden
+Kristoffer Ajer;1820000;23;D C DM;Norway
+Bryan Mbeumo;1716000;21;AM RL ST;France
+David Raya;1664000;25;GK;Spain
+Christian Norgaard;1664000;27;DM;Denmark
+Frank Onyeka;1664000;23;DM;Nigeria
+Pontus Jansson;1612000;30;D C;Sweden
+Ivan Toney;1612000;25;ST;England
+Mathias Jensen;1508000;25;M C;Denmark
+Ethan Pinnock;1404000;28;D C;England
+Álvaro Fernández;1300000;23;GK;Spain
+Josh Dasilva;1300000;22;M C;England
+Rico Henry;1196000;24;D/WB L;England
+Saman Ghoddos;1196000;27;AM RLC;Iran
+Yoane Wissa;1092000;24;AM L ST;DR Congo
+Sergi Canos;1092000;24;WB R AM RL;Spain
+Marcus Forss;1092000;22;AM L ST;Finland
+Mathias Jorgensen;988000;31;D C;Denmark
+Shandon Baptiste;780000;23;DM AM C;Grenada
+Joel Valencia;780000;26;AM RLC;Ecuador
+Mads Bech Sorensen;728000;22;D LC;Denmark
+Charlie Goode;728000;25;D C;England
+Julian Jeanvier;676000;29;D C;Guinea
+Vitaly Janelt;676000;23;DM;Germany
+Fin Stevens;624000;18;D R;Wales
+Tariqe Fosu;624000;25;AM RLC;England
+Mads Roerslev;468000;22;D RC;Denmark
+Mads Bidstrup;468000;20;DM;Denmark
+Dominic Thompson;436800;20;D/WB L;England
+Luka Racic;416000;22;D C;Denmark
+Jan Zamburek;265200;20;AM LC;Czech Republic
+Jamie Vardy;8320000;34;ST;England
+Kasper Schmeichel;6760000;34;GK;Denmark
+Youri Tielemans;6240000;24;AM C;Belgium
+James Maddison;5720000;24;AM LC;England
+Jonny Evans;5200000;33;D C;N.Ireland
+Harvey Barnes;5200000;23;AM RLC;England
+Kelechi Iheanacho;4680000;24;AM/F C;Nigeria
+Boubakary Soumaré;4316000;22;DM;France
+Ayoze Pérez;4316000;27;AM RC F C;Spain
+Patson Daka;4108000;22;ST;Zambia
+Ryan Bertrand;4056000;31;D/WB L;England
+Wilfred Ndidi;3952000;24;DM;Nigeria
+Jannik Vestergaard;3900000;28;D C;Denmark
+Ricardo Pereira;3536000;27;D/WB/AM R;Portugal
+Timothy Castagne;3484000;25;D/WB/M RL;Belgium
+Marc Albrighton;3328000;31;WB/AM RL;England
+Hamza Choudhury;3172000;23;DM;England
+Daniel Amartey;2964000;26;D RC DM;Ghana
+Ademola Lookman;2704000;23;AM RL ST;England
+Wesley Fofana;2652000;20;D C;France
+Nampalys Mendy;2548000;29;DM;Senegal
+cağlar Söyuncu;2340000;25;D C;Turkey
+Danny Ward;1924000;28;GK;Wales
+Filip Benkovic;1664000;23;D C;Croatia
+James Justin;1560000;23;D RLC;England
+Eldin Jakupovic;1404000;36;GK;Switzerland
+Luke Thomas;1300000;20;D/WB L;England
+Kiernan Dewsbury-Hall;1040000;22;DM;England
+Josh Eppiah;317200;22;AM RL ST;Belgium
+Ali Reghba;182000;21;AM RL ST;Ireland
+Wilfried Zaha;6760000;28;AM RL ST;Ivory Coast
+Christian Benteke;6240000;30;ST;Belgium
+Luka Milivojevic;4160000;30;DM;Serbia
+Odsonne Edouard;4108000;23;ST;France
+Joachim Andersen;3640000;25;D C;Denmark
+Cheikhou Kouyaté;3484000;31;D C DM;Senegal
+Jairo Riedewald;3380000;24;D L DM;Holland
+Jeffrey Schlupp;3120000;28;D/WB L AM LC;Ghana
+Vicente Guaita;2964000;34;GK;Spain
+James Tomkins;2860000;32;D RC;England
+James McArthur;2860000;33;DM M RC;Scotland
+Ebere Eze;1924000;23;AM RLC;England
+Will Hughes;1872000;26;DM AM RC;England
+Jack Butland;1820000;28;GK;England
+Joel Ward;1820000;31;D RL;England
+Jordan Ayew;1820000;29;AM R ST;Ghana
+Nathan Ferguson;1768000;20;D RC;England
+Michael Olise;1768000;19;AM RLC;France
+Marc Guehi;1612000;20;D LC;England
+Jean-Philippe Mateta;1560000;24;ST;France
+Tyrick Mitchell;1300000;21;D/WB L;England
+Martin Kelly;1248000;31;D RC;England
+Nathaniel Clyne;988000;30;D/WB R;England
+Conor Gallagher;884000;21;AM C;England
+Jaroslaw Jach;520000;27;D C;Poland
+Jack Roles;421200;22;AM C;Cyprus
+Nya Kirby;358800;21;DM;England
+Remi Matthews;244400;27;GK;England
+Luke Dreher;156000;22;DM;England
+Scott Banks;135200;19;AM RLC;Scotland
+Alexandre Lacazette;9464000;30;ST;France
+Thomas Partey;8320000;28;DM;Ghana
+Nicolas Pépé;7280000;26;AM RL;Ivory Coast
+Bernd Leno;5200000;29;GK;Germany
+Sead Kolasinac;5200000;28;D/WB L;Bosnia & Herzegovina
+Granit Xhaka;5200000;28;DM;Switzerland
+Ben White;4836000;23;D C;England
+Martin odegaard;4108000;22;AM RC;Norway
+Kieran Tierney;3900000;24;D LC;Scotland
+Cédric;3484000;29;D/WB RL;Portugal
+Aaron Ramsdale;3276000;23;GK;England
+Takehiro Tomiyasu;2964000;22;D RC;Japan
+Albert Sambi Lokonga;2756000;21;DM;Belgium
+Gabriel;2652000;23;D C;Brazil
+Pablo Marí;2548000;27;D C;Spain
+Mohamed Elneny;2548000;29;DM;Egypt
+Emile Smith Rowe;2184000;20;AM RLC;England
+Gabriel Martinelli;2132000;20;AM RLC F C;Brazil
+Rob Holding;1976000;25;D C;England
+Bukayo Saka;1716000;19;WB L AM RL;England
+Folarin Balogun;1664000;20;ST;England
+Nuno Tavares;1508000;21;D/WB L;Portugal
+Eddie Nketiah;884000;22;AM RL ST;England
+Omar Rekik;468000;19;D C DM;Tunisia
+Mika Biereth;254800;18;ST;England
+Karl Jakob Hein;156000;19;GK;Estonia
+Kido Taylor-Hart;156000;18;AM RLC F C;England
+Arthur Okonkwo;130000;19;GK;England
+Ben Cottrell;130000;19;AM RLC;England
+George Lewis;114400;21;AM RLC F C;Norway
+Philippe Coutinho;7800000;29;AM LC;Brazil
+Danny Ings;5200000;28;ST;England
+Lucas Digne;5200000;27;D/WB L;France
+Ashley Young;4576000;36;D/WB/M RL;England
+Leon Bailey;4420000;23;AM RL;Jamaica
+Emiliano Buendía;4264000;24;AM RC;Argentina
+Ezri Konsa;3744000;23;D RC DM;England
+John McGinn;3640000;26;DM AM C;Scotland
+Tyrone Mings;3484000;28;D LC;England
+Bertrand Traoré;3276000;25;AM RL ST;Burkina Faso
+Matthew Targett;3068000;25;D/WB L;England
+Morgan Sanson;3068000;26;AM C;France
+Douglas Luiz;2704000;23;DM;Brazil
+Calum Chambers;2704000;26;D RC DM;England
+Axel Tuanzebe;2496000;23;D C;England
+Emiliano Martínez;2444000;28;GK;Argentina
+Trezeguet;2444000;26;AM RL;Egypt
+Ollie Watkins;2288000;25;AM RL ST;England
+Anwar El Ghazi;1976000;26;AM RL;Holland
+Marvelous Nakamba;1768000;27;DM;Zimbabwe
+Kortney Hause;1300000;25;D LC;England
+Keinan Davis;1300000;23;ST;England
+Matty Cash;1248000;23;D/WB/M R;England
+Jed Steer;1040000;28;GK;England
+Jacob Ramsey;780000;20;AM C;England
+Jaden Philogene-Bidace;161200;19;AM RL;England
+Ben Chrisene;130000;17;D/WB/AM L;England
+Aaron Ramsey;130000;18;AM C;England
+Carney Chukwuemeka;124800;17;AM C;England
+Cameron Archer;124800;19;ST;England
+Adam Lallana;3640000;33;DM AM RLC;England
+Lewis Dunk;3484000;29;D C;England
+Pascal Groß;2912000;30;AM RLC;Germany
+Adam Webster;2860000;26;D C;England
+Jurgen Locadia;2704000;27;AM L ST;Holland
+Shane Duffy;2340000;29;D C;Ireland
+Danny Welbeck;2340000;30;AM RL ST;England
+Leandro Trossard;2236000;26;AM RLC F C;Belgium
+Marc Cucurella;2184000;22;D/WB/AM L;Spain
+Solly March;2132000;26;WB L AM RL;England
+Tariq Lamptey;2080000;20;D/WB RL M R;England
+Joel Veltman;1976000;29;D RC;Holland
+Alexis Mac Allister;1872000;22;AM LC;Argentina
+Neal Maupay;1820000;24;ST;France
+Enock Mwepu;1664000;23;M RC;Zambia
+Yves Bissouma;1508000;24;DM;Mali
+Aaron Connolly;1196000;21;ST;Ireland
+Kjell Scherpen;1040000;21;GK;Holland
+Dan Burn;1040000;29;D LC;England
+Robert Sanchez;936000;23;GK;Spain
+Steven Alzate;936000;22;AM C;Colombia
+Jason Steele;832000;30;GK;England
+Jakub Moder;780000;22;DM;Poland
+Taylor Richards;624000;20;AM LC;England
+Tudor Băluţă;447200;22;D C DM;Romania
+Haydon Roberts;218400;19;D C;England
+Jeremy Sarmiento;213200;19;AM RL;England
+Thomas McGill;187200;21;GK;England
+Adam Desbois;182000;20;GK;England
+Ayo Tanimowo;130000;19;D RL;England
+Ben Mee;3796000;31;D LC;England
+Dwight McNeil;3744000;21;AM RL ST;England
+James Tarkowski;3640000;28;D C;England
+Jay Rodriguez;3120000;31;AM RLC F C;England
+Nick Pope;3068000;29;GK;England
+Ashley Barnes;2756000;31;AM L ST;England
+Jack Cork;2600000;32;DM;England
+Ashley Westwood;2496000;31;DM;England
+Charlie Taylor;2444000;27;D/WB L;England
+Dale Stephens;2444000;32;DM;England
+Josh Brownhill;2340000;25;M RC;England
+Jóhann Berg Guðmundsson;2340000;30;AM RL;Iceland
+Matt Lowton;2288000;32;D/WB R;England
+Maxwel Cornet;2288000;24;D/WB L AM RL;Ivory Coast
+Matej Vydra;2288000;29;AM LC F C;Czech Republic
+Connor Roberts;1924000;25;D/WB R;Wales
+Erik Pieters;1664000;32;D/WB L;Holland
+Phil Bardsley;1508000;36;D RL;Scotland
+Kevin Long;1300000;30;D RC;Ireland
+Aaron Lennon;1196000;34;AM R;England
+Wayne Hennessey;1092000;34;GK;Wales
+Nathan Collins;728000;20;D C;Ireland
+Will Norris;228800;27;GK;England
+Anthony Gomez-Mancini;182000;20;M C;France
+Anthony Glennon;130000;21;D L;England
+Jacob Bedeau;109200;21;D LC;England
+Mark Helm;43160;19;AM C;England
+Rob Harker;37960;21;ST;England
+Lewis Thomas;30680;19;GK;England
+Bobby Thomas;30680;20;D C;England
+Chris Wood;5200000;29;ST;New Zealand
+Kieran Trippier;5200000;30;D/WB R;England
+Allan Saint-Maximin;4836000;24;AM RL, ST;France
+Callum Wilson;4784000;29;ST;England
+Bruno Guimarães;4680000;23;DM;Brazil
+Joe Willock;4160000;21;M C;England
+Joelinton;4160000;24;AM LC, F C;Brazil
+Miguel Almirón;3848000;27;AM RLC;Paraguay
+Jonjo Shelvey;3640000;29;DM;England
+Ryan Fraser;3276000;27;AM RL;Scotland
+Jamaal Lascelles;2860000;27;D C;England
+Jamal Lewis;2600000;23;D/WB/AM L;N.Ireland
+Jeff Hendrick;2600000;29;AM RC;Ireland
+Fabian Schar;2444000;29;D C;Switzerland
+Federico Fernández;2340000;32;D C;Argentina
+Martin Dubravka;2288000;32;GK;Slovakia
+Matt Ritchie;2288000;31;WB L, AM RL;Scotland
+Ciaran Clark;2184000;31;D C;Ireland
+Isaac Hayden;2132000;26;DM;England
+Javi Manquillo;2080000;27;D/WB RL;Spain
+Paul Dummett;2028000;29;D LC;Wales
+Emil Krafth;1924000;26;D RC;Sweden
+Dwight Gayle;1924000;31;ST;England
+Jacob Murphy;1820000;26;WB R, AM RL;England
+Karl Darlow;1560000;30;GK;England
+Sean Longstaff;1196000;23;DM;England
+Freddie Woodman;884000;24;GK;England
+Mark Gillespie;306800;29;GK;England
+Charlie Wiggett;176800;18;D C;England
+Bradley Cross;130000;20;D C;South Africa
+James Ward-Prowse;5200000;26;DM;England
+Nathan Redmond;3848000;27;AM RLC, F C;England
+Fraser Forster;3744000;33;GK;England
+Theo Walcott;3744000;32;AM RL, ST;England
+Jan Bednarek;3120000;25;D C;Poland
+Oriol Romeu;3068000;29;DM;Spain
+Moi Elyounoussi;3068000;26;AM RLC;Norway
+Stuart Armstrong;3016000;29;AM RC;Scotland
+Shane Long;3016000;34;ST;Ireland
+Alex McCarthy;2756000;31;GK;England
+Adam Armstrong;2756000;24;AM L, ST;England
+Che Adams;2704000;24;ST;Scotland
+Lyanco;2600000;24;D C;Brazil
+Jack Stephens;2600000;27;D C, DM;England
+Kyle Walker-Peters;2600000;24;D/WB RL;England
+Ibrahima Diallo;2132000;22;DM;France
+Mohammed Salisu;2028000;22;D C;Ghana
+Romain Perraud;1976000;23;D/WB L;France
+Moussa Djenepo;1768000;23;AM RLC;Mali
+Yan Valery;832000;22;D/WB R;France
+Nathan Tella;468000;22;AM R, ST;England
+Armando Broja;442000;19;AM RL, ST;Albania
+Sam McQueen;395200;26;D/AM L;England
+Tino Livramento;364000;18;D/WB R;England
+Will Smallbone;312000;21;AM C;Ireland
+Dynel Simeu;280800;19;D C;England
+Caleb Watts;176800;19;AM C;Australia
+Oliver Lancashire;93600;32;D C;England
+Harry Lewis;62400;23;GK;England
+Jack Bycroft;57200;19;GK;England
+Harry Kane;10400000;27;AM/F C;England
+Heung-Min Son;9984000;29;AM RL, ST;South Korea
+Tanguy Ndombele;6240000;24;DM, AM C;France
+Hugo Lloris;5200000;34;GK;France
+Pierre-Emile Hojbjerg;5200000;25;DM;Denmark
+Giovani Lo Celso;5200000;25;DM, AM LC;Argentina
+Ben Davies;4836000;28;D LC;Wales
+Eric Dier;4784000;27;D C, DM;England
+Harry Winks;4732000;25;DM;England
+Bryan Gil;4316000;20;AM RLC;Spain
+Lucas Moura;4160000;28;AM RL, ST;Brazil
+Rodrigo Bentancur;3848000;24;DM;Uruguay
+Matt Doherty;3848000;29;D/WB R;Ireland
+Steven Bergwijn;3796000;23;AM RLC, F C;Holland
+Sergio Reguilón;3536000;24;D/WB L;Spain
+Davinson Sánchez;3484000;25;D C;Colombia
+Emerson Royal;3224000;22;D/WB R;Brazil
+Ryan Sessegnon;2756000;21;D/WB/AM L;England
+Cristian Romero;1508000;23;D C;Argentina
+Japhet Tanganga;1300000;22;D RC;England
+Jack Clarke;1300000;20;AM RL;England
+Joe Rodon;1248000;23;D C;Wales
+Oliver Skipp;1248000;20;DM;England
+Pierluigi Gollini;1196000;26;GK;Italy
+Harvey White;572000;19;DM;England
+Dane Scarlett;176800;17;ST;England
+Marqes Muir;98800;18;D C;England
+Nile John;98800;18;AM C;England
+Max Robson;98800;18;AM C;England
+Brandon Austin;78000;22;GK;England
+Alphonse Areola;7176000;28;GK;France
+Kurt Zouma;5200000;26;D RC;France
+Andriy Yarmolenko;5200000;31;AM RL;Ukraine
+Jarrod Bowen;4160000;24;AM RLC;England
+Pablo Fornals;4108000;25;AM LC;Spain
+Manuel Lanzini;3588000;28;AM C;Argentina
+Nikola Vlasic;3588000;23;AM LC;Croatia
+Michail Antonio;3588000;31;AM R, ST;Jamaica
+Angelo Ogbonna;3536000;33;D C;Italy
+Declan Rice;3224000;22;D C, DM;England
+Issa Diop;3172000;24;D C;France
+Lukasz Fabianski;3120000;36;GK;Poland
+Said Benrahma;3016000;25;AM RLC;Algeria
+Aaron Cresswell;2756000;31;D LC;England
+Craig Dawson;2704000;31;D RC;England
+Mark Noble;2548000;34;DM;England
+Tomás Soucek;2444000;26;DM;Czech Republic
+Arthur Masuaku;2236000;27;D/WB/M L;DR Congo
+Darren Randolph;2184000;34;GK;Ireland
+Ryan Fredericks;1976000;28;D/WB/AM R;England
+Vladimír Coufal;1404000;28;D/WB R;Czech Republic
+Alex Král;1248000;23;DM;Czech Republic
+David Martin;436800;35;GK;England
+Armstrong Oko-Flex;286000;19;AM RL, ST;Ireland
+Ben Johnson;130000;21;D RL;England
+Pierre-Emmanuel Ekwah Elimby;93600;19;D C, DM;France
+Emmanuel Longelo;67600;20;D/WB L;England
+Freddie Potts;67600;17;M C;England
+Jayden Fevrier;57200;18;AM RL;England
+Levi Laing;52000;18;D RC, DM;England
+Francisco Trincão;6812000;21;AM RL;Portugal
+João Moutinho;5200000;34;AM C;Portugal
+Raúl Jiménez;5200000;30;ST;Mexico
+Nélson Semedo;4368000;27;D/WB R;Portugal
+Jonny;3900000;27;D/WB RL;Spain
+Leander Dendoncker;3900000;26;D C, DM;Belgium
+Conor Coady;3224000;28;D C;England
+Rúben Neves;3016000;24;DM;Portugal
+Daniel Podence;2704000;25;AM RLC;Portugal
+Willy Boly;2392000;30;D C;France
+Adama Traoré;2392000;25;AM RL;Spain
+José Sá;2080000;28;GK;Portugal
+Pedro Neto;2028000;21;AM RLC, F C;Portugal
+Fábio Silva;1924000;18;ST;Portugal
+John Ruddy;1820000;34;GK;England
+Rayan Ait-Nouri;1716000;20;D/WB L;France
+Marcal;1508000;32;D/WB L;Brazil
+Romain Saiss;1456000;31;D C, DM;Morocco
+Hwang Hee-Chan;1352000;25;AM RL, ST;South Korea
+Bruno Jordão;936000;22;DM, AM C;Portugal
+Max Kilman;728000;24;D C;England
+Meritan Shabani;728000;22;AM C;Germany
+Ki-Jana Hoever;624000;19;D RC;Holland
+Yerson Mosquera;312000;20;D C;Colombia
+Oskar Buur;249600;23;D/WB/M R;Denmark
+Harvey Griffiths;166400;17;DM;England
+Louie Moulden;156000;19;GK;England
+Hugo Bueno;114400;18;D/WB L, M C;Spain
+Lewis Richards;104000;19;D LC;England
+Raphael Nya;88400;21;D RC;France
+Ismaila Sarr;3692000;23;AM RL, ST;Senegal
+Joshua King;2600000;29;AM RLC, F C;Norway
+Imran Louza;2392000;22;AM C;France
+Moussa Sissoko;2288000;31;AM RC;France
+Danny Rose;2184000;31;D/WB/M L;England
+Juraj Kucka;1924000;34;DM, AM C;Slovakia
+Tom Cleverley;1820000;31;AM C;England
+Nicolas Nkoulou;1768000;31;D C;Cameroon
+Jeremy Ngakia;1768000;20;D/WB/M R;England
+Ben Foster;1716000;38;GK;England
+Christian Kabasele;1664000;30;D C;Belgium
+Ozan Tufan;1664000;26;DM;Turkey
+Adam Masina;1612000;27;D LC;Italy
+João Pedro;1560000;19;AM RL, ST;Brazil
+Peter Etebo;1508000;25;DM;Nigeria
+Dan Gosling;1404000;31;M C;England
+Emmanuel Dennis;1404000;23;AM RL;Nigeria
+Craig Cathcart;1300000;32;D RC;N.Ireland
+Kiko Femenía;1040000;30;D/WB RL, M R;Spain
+Juan Hernández;1040000;22;AM/F C;Colombia
+William Troost-Ekong;988000;27;D C;Nigeria
+Ashley Fletcher;936000;25;AM RL, ST;England
+Ken Sema;780000;27;WB/AM L;Sweden
+Francisco Sierralta;327600;24;D RC;Chile
+Rob Elliot;244400;35;GK;Ireland
+Daniel Bachmann;228800;27;GK;Austria
+Kwadwo Baah;104000;18;AM RL, ST;England
+Maurizio Pochettino;98800;20;AM RL;Argentina
+Josh O'Brien;57200;17;D C;Ireland
+Derek Agyakwa;40040;19;D C;Holland
+Brandon Williams;2236000;20;D/WB RL;England
+Ben Gibson;2236000;28;D C;England
+Pierre Lees-Melou;1768000;28;AM C;France
+Milot Rashica;1768000;25;AM RL, ST;Kosovo
+Angus Gunn;1716000;25;GK;England
+Ozan Kabak;1664000;21;D C;Turkey
+Billy Gilmour;1456000;20;AM C;Scotland
+Dimitris Giannoulis;1404000;25;D/WB/M L;Greece
+Christos Tzolis;1404000;19;AM RL, ST;Greece
+Grant Hanley;1352000;29;D C;Scotland
+Josh Sargent;1300000;21;AM RL, ST;U.S.A.
+Mathias Normann;1248000;25;DM;Norway
+Tim Krul;988000;33;GK;Holland
+Lukas Rupp;988000;30;DM, AM RC;Germany
+Christoph Zimmermann;936000;28;D C;Germany
+Max Aarons;884000;21;D/WB R;England
+Kenny McLean;884000;29;DM, AM C;Scotland
+Sam Byram;832000;27;D RL, M R;England
+Todd Cantwell;832000;23;AM RLC;England
+Jacob Sorensen;780000;23;D C, DM;Denmark
+Teemu Pukki;780000;31;ST;Finland
+Kieran Dowell;520000;23;AM RLC;England
+Przemyslaw Placheta;468000;23;AM L;Poland
+Michael McGovern;410800;36;GK;N.Ireland
+Bali Mumba;286000;19;D/WB R, DM;England
+Rocky Bushiri;244400;21;D RC, DM;Belgium
+Adam Idah;234000;20;ST;Ireland
+Abu Kamara;130000;17;AM/F C;England
+Andrew Omobamidele;78000;19;D C;Ireland
+Liam Gibbs;52000;18;AM C;England

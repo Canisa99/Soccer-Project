@@ -1,0 +1,595 @@
+Player;Yearly Salary;Age;Position;Nationality
+Victor Kovalenko;2444000;25;AM C;Ukraine
+Dimitris Nikolaou;1508000;22;D C;Greece
+Jeroen Zoet;1300000;30;GK;Holland
+Arkadiusz Reca;1144000;26;D/WB/M L;Poland
+Mehdi Bourabia;884000;29;DM;Morocco
+Kelvin Amian;780000;23;D RC;France
+Daniele Verde;728000;25;AM RLC;Italy
+Janis Antiste;676000;18;AM RL, ST;France
+Jacopo Sala;624000;29;D/WB/M R;Italy
+Kevin Agudelo;624000;22;AM RC;Colombia
+Rey Manaj;572000;24;ST;Albania
+M'Bala Nzola;468000;24;ST;Angola
+Léo Sena;468000;25;AM C;Brazil
+Ivan Provedel;421200;27;GK;Italy
+Ebrima Colley;327600;21;AM LC, F C;The Gambia
+Giulio Maggiore;322400;23;DM;Italy
+Salva Ferrer;291200;23;D RC;Spain
+Eddie Salcedo;275600;19;AM LC, F C;Italy
+Aurélien Nguiamba;234000;22;D C, DM;France
+Emmanuel Gyasi;223600;27;AM RL;Ghana
+Martin Erlic;202800;23;D C;Croatia
+David Strelec;176800;20;AM/F C;Slovakia
+Jakub Kiwior;161200;21;D LC;Poland
+Suf Podgoreanu;135200;19;AM RL;Israel
+Simone Bastoni;135200;24;D/WB L, M LC;Italy
+Aimar Sher;78000;18;AM C;Sweden
+Petko Hristov;41600;22;D C;Bulgaria
+Henoc N'Gbesso;24440;18;AM RL, ST;Italy
+Birgir Steinn Styrmisson;22880;17;D RLC, M C;Iceland
+Leonardo Gabelli;17680;19;M C;Italy
+Antonio Candreva;2236000;34;AM RC;Italy
+Fabio Quagliarella;2028000;38;ST;Italy
+Albin Ekdal;1872000;31;DM;Sweden
+Manolo Gabbiadini;1664000;29;AM RLC, F C;Italy
+Adrien Silva;1560000;32;DM;Portugal
+Omar Colley;1456000;28;D C;The Gambia
+Emil Audero;1352000;24;GK;Italy
+Francesco Caputo;1352000;33;ST;Italy
+Maya Yoshida;1248000;32;D C;Japan
+Ronaldo Vieira;1092000;22;DM;England
+Nicola Murru;1040000;26;D/WB/M L;Italy
+Valerio Verre;936000;27;AM/F C;Italy
+Mohamed Ihattaren;884000;19;AM RLC;Holland
+Bartosz Bereszyński;884000;28;D/WB R;Poland
+Ernesto Torregrossa;832000;29;ST;Italy
+Alex Ferrari;780000;27;D RC;Italy
+Morten Thorsby;624000;25;DM;Norway
+Julian Chabot;572000;23;D C;Germany
+Fabio Depaoli;483600;24;D/WB/M R;Italy
+Tommaso Augello;395200;26;D/WB L;Italy
+Radu Dragusin;296400;19;D C;Romania
+Kristoffer Askildsen;156000;20;DM;Norway
+Mikkel Damsgaard;150800;21;AM RLC;Denmark
+Nicola Ravaglia;150800;32;GK;Italy
+Nik Prelec;98800;20;AM R, ST;Slovenia
+Wladimiro Falcone;72800;26;GK;Italy
+Riccardo Ciervo;35360;19;AM RL;Italy
+Christian Maianti;27040;17;GK;Italy
+Ardit Lika;23400;17;ST;Albania
+Ivan Mario Saio;19240;19;GK;Italy
+Domenico Berardi;2964000;26;AM RLC, F C;Italy
+Andrea Consigli;1716000;34;GK;Italy
+Grégoire Defrel;1404000;30;AM RC, F C;France
+Filip Duricic;1196000;29;AM LC;Serbia
+Maxime Lopez;1196000;23;DM, AM C;France
+Francesco Magnanelli;1196000;36;DM;Italy
+Davide Frattesi;1196000;21;DM;Italy
+Vlad Chiriches;1092000;31;D C;Romania
+Federico Peluso;1040000;37;D LC;Italy
+Pedro Obiang;1040000;29;DM;Eq. Guinea
+Gian Marco Ferrari;988000;29;D C;Italy
+Rogério;988000;23;D/WB/M L;Brazil
+Jeremy Toljan;936000;26;D/WB RL, M R;Germany
+Edoardo Goldaniga;884000;27;D C;Italy
+Hamed Junior Traoré;832000;21;AM C;Ivory Coast
+Gianluca Pegolo;832000;40;GK;Italy
+Jeremie Boga;780000;24;AM RLC;Ivory Coast
+Kaan Ayhan;780000;26;D RC, DM;Turkey
+Filippo Romagna;728000;24;D C;Italy
+Giorgos Kyriakopoulos;572000;25;D/WB/M L;Greece
+Mert Muldur;468000;22;D/WB R;Turkey
+Matheus Henrique;468000;23;DM;Brazil
+Nicolás Schiappacasse;306800;22;AM RLC, F C;Uruguay
+Gianluca Scamacca;166400;22;ST;Italy
+Giacomo Raspadori;166400;21;AM LC, F C;Italy
+Giacomo Satalino;114400;22;GK;Italy
+Djenairo Daniels;72800;19;ST;Holland
+Yeferson Paz;67600;19;D/WB R;Colombia
+Abdou Harroui;49920;23;DM;Morocco
+Luigi Samele;37960;19;ST;Italy
+Paulo Dybala;11544000;27;AM RC, F C;Argentina
+Matthijs de Ligt;10400000;21;D C;Holland
+Wojciech Szczesny;10296000;31;GK;Poland
+Leonardo Bonucci;10296000;34;D C;Italy
+Alex Sandro;9516000;30;D/WB/M L;Brazil
+Adrien Rabiot;9100000;26;DM, M LC;France
+Aaron Ramsey;9100000;30;AM RC;Wales
+Juan Cuadrado;7904000;33;D/WB/AM R;Colombia
+Dusan Vlahovic;7800000;21;ST;Serbia
+Álvaro Morata;6500000;28;ST;Spain
+Arthur;6500000;24;DM;Brazil
+Federico Bernardeschi;6344000;27;WB/AM RL;Italy
+Daniele Rugani;5512000;26;D C;Italy
+Danilo;5200000;29;D RLC;Brazil
+Giorgio Chiellini;4784000;36;D C;Italy
+Mattia De Sciglio;4680000;28;D/WB RL;Italy
+Manuel Locatelli;4680000;23;DM;Italy
+Dejan Kulusevski;4056000;21;AM RC;Sweden
+Mattia Perin;3588000;28;GK;Italy
+Federico Chiesa;2808000;23;AM RL;Italy
+Moise Kean;2548000;21;AM RL, ST;Italy
+Weston McKennie;1924000;22;DM, AM RC;U.S.A.
+Kaio Jorge;1560000;19;ST;Brazil
+Luca Pellegrini;1560000;22;D/WB/M L;Italy
+Carlo Pinsoglio;488800;31;GK;Italy
+Albian Hajdari;78000;18;D C;Switzerland
+Elias Solberg;47840;17;AM RC;Norway
+Félix Nzouango Bikien;40040;18;D LC;France
+Alessandro Citi;26000;18;D C;Italy
+Gabriele Mulazzi;21320;18;D/WB/M RL;Italy
+Davide Zappacosta;3328000;29;D/WB/M R;Italy
+Merih Demiral;3120000;23;D C;Turkey
+Duván Zapata;2964000;30;ST;Colombia
+Luis Muriel;2860000;30;AM/F C;Colombia
+Josip Ilicic;2860000;33;AM RC F C;Slovenia
+Alexey Miranchuk;2548000;25;AM RC;Russia
+Juan Musso;2548000;27;GK;Argentina
+Teun Koopmeiners;1768000;23;D C DM;Holland
+Mario Pasalic;1508000;26;AM C;Croatia
+Marten de Roon;1508000;30;DM;Holland
+Matteo Pessina;1508000;24;AM C;Italy
+Rafael Tolói;1456000;30;D RC;Italy
+Berat Djimsiti;1404000;28;D C;Albania
+Hans Hateboer;1300000;27;D/WB/M R;Holland
+José Luis Palomino;1248000;31;D C;Argentina
+Ruslan Malinovskyi;1196000;28;AM C;Ukraine
+Remo Freuler;1144000;29;DM;Switzerland
+Joakim Maehle;1144000;24;D/WB RL M R;Denmark
+Robin Gosens;1144000;27;D/WB/M L;Germany
+Marco Sportiello;884000;29;GK;Italy
+Giuseppe Pezzella;780000;23;D/WB/M L;Italy
+Matteo Lovato;572000;21;D C;Italy
+Federico Mattiello;483600;25;D/WB/M RL;Italy
+Roberto Piccoli;452400;20;ST;Italy
+Francesco Rossi;171600;30;GK;Italy
+Lukás Vorlický;52000;19;AM LC;Czech Republic
+Alassane Sidibé;48360;19;AM RC;Ivory Coast
+Simone Panada;39000;19;DM;Italy
+Guillaume Renault;35880;19;D/WB R;Italy
+Alessandro Pavan;31720;21;GK;Italy
+Andrea Pinamonti;3328000;22;ST;Italy
+Patrick Cutrone;3068000;23;ST;Italy
+Leonardo Mancuso;2236000;29;AM RL ST;Italy
+Nedim Bajrami;1872000;22;AM C;Albania
+Lorenzo Tonelli;1560000;31;D C;Italy
+Andrea La Mantia;1560000;30;ST;Italy
+Simone Romagnoli;1456000;31;D C;Italy
+Samuele Ricci;1456000;19;DM;Italy
+Leo stulac;1352000;26;DM;Slovenia
+Ardian Ismajli;1300000;24;D RC;Albania
+Liam Henderson;1248000;25;AM C;Scotland
+Nicolas Haas;1196000;25;AM C;Switzerland
+Filippo Bandinelli;1040000;26;AM LC;Italy
+Federico Di Francesco;1040000;27;AM RLC F C;Italy
+Guglielmo Vicario;988000;24;GK;Italy
+Sebastiano Luperto;988000;24;D LC;Italy
+Petar Stojanovic;728000;25;D/WB R;Slovenia
+Riccardo Marchizza;676000;23;D LC;Italy
+Szymon Zurkowski;676000;23;DM AM C;Poland
+Samir Ujkani;447200;33;GK;Kosovo
+Riccardo Fiamozzi;296400;28;D/WB/M R;Italy
+Jacopo Furlan;213200;28;GK;Italy
+Fabiano Parisi;171600;20;D/WB/M L;Italy
+Mattia Viti;150800;19;D C;Italy
+Samuele Damiani;135200;23;DM;Italy
+Emmanuel Ekong;119600;19;ST;Sweden
+Kristjan Asllani;104000;19;DM;Albania
+Antonino Fradella;47320;20;D RC;Italy
+Davide Villa;26520;19;ST;Italy
+Mouhamadou Sakho;25480;21;DM;Senegal
+Kevin Strootman;5096000;31;DM;Holland
+Diego Godín;4836000;35;D C;Uruguay
+Marko Rog;2340000;25;M C;Croatia
+João Pedro;2236000;29;AM LC F C;Brazil
+Leonardo Pavoletti;2236000;32;ST;Italy
+Dalbert;2028000;27;D/WB/M L;Brazil
+Nahitan Nández;2028000;25;WB R M RC;Uruguay
+Martín Cáceres;1872000;34;D RC;Uruguay
+Gastón Pereiro;1872000;26;AM RLC;Uruguay
+Alessio Cragno;1716000;27;GK;Italy
+Keita Baldé;1664000;26;AM RLC F C;Senegal
+Luca Ceppitelli;1560000;31;D C;Italy
+Alberto Grassi;1560000;26;DM;Italy
+Razvan Marin;1456000;25;DM AM C;Romania
+Andrea Carboni;1248000;20;D LC;Italy
+Diego Farias;1196000;31;AM RLC F C;Brazil
+Charalampos Lykogiannis;884000;27;D LC;Greece
+Paolo Faragò;728000;28;D/WB R M RC;Italy
+Raoul Bellanova;728000;21;D/WB/M R;Italy
+Alessandro Deiola;494000;25;DM;Italy
+Christian Oliva;488800;25;DM;Uruguay
+Gabriele Zappa;478400;21;D/WB/M R;Italy
+Sebastian Walukiewicz;395200;21;D C DM;Poland
+Boris Radunovic;338000;25;GK;Serbia
+Simone Aresti;239200;35;GK;Italy
+Damir Ceter Valencia;228800;23;ST;Colombia
+Steve Yanken Yanken;83200;18;DM M LC;Belgium
+Giorgio Altare;62400;22;D C;Italy
+Lisandru Tramoni;37960;18;AM RL;France
+Riccardo Ladinetti;36400;20;DM;Italy
+Ciro Immobile;6344000;31;ST;Italy
+Sergej Milinkovic-Savic;4940000;26;AM C;Serbia
+Luis Alberto;3952000;28;AM C;Spain
+Lucas Leiva;3640000;34;DM;Brazil
+Elseid Hysaj;3276000;27;D/WB RL;Albania
+Pedro;3172000;33;AM RLC;Spain
+Pepe Reina;3120000;38;GK;Spain
+Francesco Acerbi;2964000;33;D C;Italy
+Vedat Muriqi;2704000;27;ST;Kosovo
+Felipe Anderson;2704000;28;AM RL;Brazil
+Manuel Lazzari;2340000;27;D/WB/M R;Italy
+Danilo Cataldi;2340000;26;DM AM C;Italy
+Stefan Radu;2236000;34;D LC;Romania
+Mattia Zaccagni;1976000;26;AM LC;Italy
+Gonzalo Escalante;1872000;28;DM;Argentina
+Thomas Strakosha;1768000;26;GK;Albania
+Jordan Lukaku;1560000;26;D/WB/M L;Belgium
+Adam Marusic;1560000;28;D/WB RL M R;Montenegro
+Patric;1508000;28;D RC;Spain
+Riza Durmisi;1456000;27;D/WB/M L;Denmark
+Jony;1404000;30;WB/AM L;Spain
+Denis Vavro;1404000;25;D C;Slovakia
+Luiz Felipe;1248000;24;D C;Brazil
+Dimitrije Kamenovic;1040000;20;D LC;Serbia
+André Anderson;936000;21;AM/F C;Brazil
+Bobby Adekanye;832000;22;AM RLC F C;Holland
+Jean-Daniel Akpa Akpro;780000;28;M C;Ivory Coast
+Cristiano Lombardi;728000;25;WB R AM RLC;Italy
+Raúl Moro;676000;18;AM RLC F C;Spain
+Alessandro Rossi;494000;24;ST;Italy
+Simy;832000;29;ST;Nigeria
+Andrea Schiavone;780000;28;DM;Italy
+Lassana Coulibaly;676000;25;M C;Mali
+Riccardo Gagliolo;624000;31;D LC;Sweden
+Francesco Di Tacchio;624000;31;DM;Italy
+Mamadou Coulibaly;624000;22;DM;Senegal
+Cédric Gondo;624000;24;ST;Ivory Coast
+Vid Belec;572000;31;GK;Slovenia
+Luka Bogdan;572000;25;D C;Croatia
+Stefan Strandberg;468000;30;D C;Norway
+Norbert Gyömber;462800;29;D RC;Slovakia
+Milan Duric;462800;31;ST;Bosnia & Herzegovina
+Pawel Jaroszynski;457600;26;D LC M L;Poland
+Ramzi Aya;452400;30;D C;Italy
+Wajdi Kechrida;384800;25;D/WB R M C;Tunisia
+Nadir Zortea;306800;22;D/WB/M R;Italy
+Luca Ranieri;260000;22;D LC M L;Italy
+Vincenzo Fiorillo;234000;31;GK;Italy
+Grigoris Kastanos;166400;23;AM C;Cyprus
+Filippo Delli Carri;119600;22;D C;Italy
+Leonardo Capezzi;104000;26;DM;Italy
+Sedrick Kalombo;83200;26;D/WB/M R;DR Congo
+Edoardo Vergani;45240;20;ST;Italy
+Antonio Russo;37440;21;GK;Italy
+Francesco Pezzo;29120;20;DM;Italy
+Kalidou Koulibaly;9516000;30;D C;Senegal
+Lorenzo Insigne;7280000;30;AM L ST;Italy
+Dries Mertens;7124000;34;AM RLC F C;Belgium
+Kostas Manolas;6344000;30;D C;Greece
+Victor Osimhen;5824000;22;ST;Nigeria
+Hirving Lozano;5824000;25;AM RL ST;Mexico
+Piotr Zielinski;5512000;27;AM LC;Poland
+Diego Demme;4056000;29;DM;Germany
+Faouzi Ghoulam;3900000;30;D/WB L;Algeria
+Giovanni Di Lorenzo;3692000;27;D RC M R;Italy
+Matteo Politano;3432000;27;AM RLC F C;Italy
+Mário Rui;3276000;30;D/WB/M L;Portugal
+Andrea Petagna;3016000;26;ST;Italy
+Amir Rrahmani;2496000;27;D RLC;Kosovo
+Fabián;2496000;25;DM AM C;Spain
+Stanislav Lobotka;2496000;26;DM;Slovakia
+André-Franck Zambo Anguissa;2444000;25;DM;Cameroon
+David Ospina;2340000;32;GK;Colombia
+Eljif Elmas;2028000;21;AM LC;North Macedonia
+Adam Ounas;1976000;24;AM RLC F C;Algeria
+Alex Meret;1716000;24;GK;Italy
+Jesus;1560000;30;D LC;Brazil
+Kévin Malcuit;1248000;29;D/WB/M R;France
+Filippo Costa;676000;26;D/WB/M L;Italy
+Alessandro Zanoli;78000;20;D RC;Italy
+Davide Marfella;72800;21;GK;Italy
+Coli Saco;33280;19;DM;France
+Hubert Idasiak;27560;19;GK;Poland
+Davide Costanzo;24440;19;D C;Italy
+Jonathan Spedalieri;22360;19;D C;Italy
+Marko Arnautovic;3432000;32;ST;Austria
+Nicola Sansone;2496000;29;AM L, ST;Italy
+Roberto Soriano;2444000;30;AM C;Italy
+Gary Medel;1976000;33;D C, DM;Chile
+Federico Santander;1664000;30;ST;Paraguay
+Riccardo Orsolini;1612000;24;AM R;Italy
+Diego Falcinelli;1508000;30;ST;Italy
+Lukasz Skorupski;1404000;30;GK;Poland
+Lorenzo De Silvestri;1404000;33;D/WB/M R;Italy
+Andreas Skov Olsen;1404000;21;AM R;Denmark
+Ibrahima Mbaye;1248000;26;D/WB/M R;Senegal
+Mitchell Dijks;1196000;28;D/WB/M L;Holland
+Adama Soumaoro;1144000;29;D C;France
+Kevin Bonifazi;936000;25;D C;Italy
+Nicolás Domínguez;884000;23;DM;Argentina
+Francesco Bardi;884000;29;GK;Italy
+Aaron Hickey;832000;19;D/WB RL;Scotland
+Musa Barrow;728000;22;AM L, ST;The Gambia
+Mattias Svanberg;728000;22;DM;Sweden
+Jerdy Schouten;676000;24;DM;Holland
+Emanuel Vignato;483600;20;AM RLC;Italy
+Gabriele Corbo;478400;21;D C;Italy
+Sydney van Hooijdonk;416000;21;AM L, ST;Holland
+Michael Kingsley;254800;21;DM;Nigeria
+Luis Binks;156000;19;D C;England
+Arthur Theate;130000;21;D LC;Belgium
+Gianmarco Cangiano;114400;19;AM RL;Italy
+David Wieser;47320;19;DM;Italy
+Marco Molla;46800;19;GK;Albania
+Mattia Pagliuca;37440;19;AM RLC, F C;Italy
+Alexis Sánchez;9100000;32;AM RL, ST;Chile
+Edin Dzeko;7904000;35;ST;Bosnia & Herzegovina
+Hakan Calhanoglu;7488000;27;AM LC;Turkey
+Ivan Perisic;6500000;32;WB L, AM L, ST;Croatia
+Alessandro Bastoni;6344000;22;D C;Italy
+Stefan de Vrij;6032000;29;D C;Holland
+Marcelo Brozovic;5512000;28;DM;Croatia
+Samir Handanovic;4940000;36;GK;Slovenia
+Aleksandar Kolarov;4888000;35;D LC;Serbia
+Milan Skriniar;4680000;26;D C;Slovakia
+Arturo Vidal;4472000;34;DM, AM C;Chile
+Lautaro Martínez;3952000;23;ST;Argentina
+Joaquín Correa;3952000;26;AM RLC, F C;Argentina
+Matías Vecino;3900000;29;DM, AM C;Uruguay
+Nicolò Barella;3900000;24;AM C;Italy
+Denzel Dumfries;3328000;25;D/WB/M R;Holland
+Danilo D'Ambrosio;3276000;32;D RC, M R;Italy
+Stefano Sensi;3068000;25;DM, AM C;Italy
+Andrea Ranocchia;3016000;33;D C;Italy
+Matteo Darmian;2548000;31;D RLC, M RL;Italy
+Roberto Gagliardini;2288000;27;DM;Italy
+Ionut Radu;1612000;24;GK;Romania
+Federico Dimarco;884000;23;D LC, M L;Italy
+Martín Satriano;468000;20;ST;Uruguay
+Alex Cordaz;442000;38;GK;Italy
+Facundo Colidio;327600;21;ST;Argentina
+Gabriel Brazão;166400;20;GK;Brazil
+Mattia Sangalli;39520;19;DM;Italy
+Cesare Casadei;34840;18;DM, AM C;Italy
+Felipe Caicedo;3588000;32;ST;Ecuador
+Salvatore Sirigu;3068000;34;GK;Italy
+Nikola Maksimovic;2340000;29;D RC;Serbia
+Milan Badelj;2184000;32;DM;Croatia
+Domenico Criscito;2028000;34;D LC;Italy
+Mohamed Fares;1872000;25;D/WB/AM L;Algeria
+Stefano Sturaro;1820000;28;DM;Italy
+Zinho Vanheusden;1768000;21;D C;Belgium
+Hernani;1612000;27;DM;Brazil
+Nicolò Rovella;1508000;19;DM;Italy
+Caleb Ekuban;1404000;27;AM RC, F C;Ghana
+Andrea Masiello;1248000;35;D C;Italy
+Davide Biraschi;1196000;27;D RC;Italy
+Abdoulaye Touré;1196000;27;DM;France
+Francesco Cassata;1040000;23;DM, M LC;Italy
+Ivan Radovanovic;988000;32;D C, DM;Serbia
+Paolo Ghiglione;884000;24;D/WB/M R;Italy
+Goran Pandev;832000;37;AM RC, F C;North Macedonia
+Mattia Destro;832000;30;ST;Italy
+Adrian semper;728000;23;GK;Croatia
+Mattia Bani;728000;27;D C;Italy
+Federico Marchetti;728000;38;GK;Italy
+Valon Behrami;624000;36;DM;Switzerland
+Pablo Galdames;624000;24;DM;Chile
+Johan Felipe Vásquez;473200;22;D C;Mexico
+Yayah Kallon;431600;20;AM RL, ST;Sierra Leone
+Stefano Sabelli;395200;28;D/WB/M R;Italy
+Aleksander Buksa;390000;18;ST;Poland
+Manolo Portanova;358800;21;AM C;Italy
+Rok Vodisek;296400;22;GK;Slovenia
+Giovanni Simeone;2444000;25;ST;Argentina
+Nikola Kalinic;1872000;33;ST;Croatia
+Mert Cetin;1248000;24;D C;Turkey
+Gianluca Frabotta;1144000;22;D/WB L;Italy
+Kevin Lasagna;1092000;28;ST;Italy
+Darko Lazovic;1040000;30;WB/M RL;Serbia
+Giangiacomo Magnani;988000;25;D C;Italy
+Antonín Barák;936000;26;AM C;Czech Republic
+Koray Gunter;936000;26;D C;Germany
+Davide Faraoni;884000;29;D RC, M R;Italy
+Federico Ceccherini;884000;29;D C;Italy
+Daniel Bessa;832000;28;AM C;Italy
+Adrien Tameze;832000;27;DM, AM C;France
+Matteo Cancellieri;780000;19;AM R, ST;Italy
+Miguel Veloso;728000;35;DM;Portugal
+Gianluca Caprari;676000;27;AM RLC, F C;Italy
+Antonino Ragusa;494000;31;AM RL;Italy
+Kevin Ruegg;468000;22;D/WB R;Switzerland
+Lorenzo Montipò;416000;25;GK;Italy
+Pawel Dawidowicz;405600;26;D C, DM;Poland
+Bosko sutalo;338000;21;D RC;Croatia
+Alessandro Berardi;286000;30;GK;Italy
+Martin Hongla;254800;23;D C, DM;Cameroon
+Ivan Ilic;213200;20;DM, AM C;Serbia
+Ivor Pandur;213200;21;GK;Croatia
+David Flakus Bosilj;124800;19;ST;Slovenia
+Nicolò Casale;23920;23;D RC;Italy
+Bernardo Calabrese;22880;19;D C;Italy
+Christian Pierobon;22360;19;M C;Italy
+Federico Caia;21840;18;ST;Italy
+Dennis Praet;4004000;27;AM RC;Belgium
+Andrea Belotti;3328000;27;ST;Italy
+Armando Izzo;2860000;29;D RC;Italy
+Simone Verdi;2600000;28;AM RLC, F C;Italy
+Daniele Baselli;2340000;29;DM;Italy
+Marko Pjaca;2340000;26;AM RLC, F C;Croatia
+Ricardo Rodríguez;2288000;28;D LC, M L;Switzerland
+Karol Linetty;2236000;26;DM, AM C;Poland
+Tomás Rincón;2080000;33;DM;Venezuela
+Simone Zaza;2080000;30;ST;Italy
+Antonio Sanabria;1872000;25;ST;Paraguay
+Etrit Berisha;1664000;32;GK;Albania
+Cristian Ansaldi;1664000;34;D/WB/M L;Argentina
+Josip Brekalo;1560000;23;AM RL;Croatia
+Ola Aina;1248000;24;D/WB/M RL;Nigeria
+Rolando Mandragora;988000;24;DM;Italy
+Sasa Lukic;988000;24;DM, AM C;Serbia
+Koffi Djidji;936000;28;D C;France
+Bremer;936000;24;D C;Brazil
+Mergim Vojvoda;884000;26;D RC;Kosovo
+David Zima;728000;20;D C;Czech Republic
+Simone Edera;520000;24;AM RL;Italy
+Vanja Milinkovic-Savic;468000;24;GK;Serbia
+Tommaso Pobega;395200;21;DM;Italy
+Alessandro Buongiorno;390000;22;D C;Italy
+Wilfried Singo;280800;20;D/WB/M R;Ivory Coast
+Magnus Warming;150800;21;AM L, ST;Denmark
+Ben Lhassine Koné;130000;21;AM RLC;Ivory Coast
+Luca Gemello;104000;21;GK;Italy
+Dennis Stojkovic;48880;18;AM LC;Serbia
+Gerard Deulofeu;1612000;27;AM RL, ST;Spain
+Isaac Success;1612000;25;AM L, ST;Nigeria
+Ignacio Pussetto;1404000;25;AM RL, ST;Argentina
+Roberto Pereyra;1196000;30;AM RLC;Argentina
+Ilija Nestorovski;1144000;31;ST;North Macedonia
+Bram Nuytinck;1092000;31;D C;Holland
+Mato Jajalo;1040000;33;DM;Bosnia & Herzegovina
+Sèbastien De Maio;832000;34;D C;France
+Fernando Forestieri;780000;31;AM RLC, F C;Argentina
+Lukasz Teodorczyk;780000;30;ST;Poland
+Jens Stryger Larsen;780000;30;D RLC, M R;Denmark
+Marco Silvestri;728000;30;GK;Italy
+Samir;676000;26;D LC;Brazil
+Rodrigo Becão;676000;25;D C;Brazil
+Tolgay Arslan;624000;30;DM;Germany
+Marvin Zeegelaar;624000;30;D/WB L;Holland
+Walace;468000;26;DM;Brazil
+Nehuén Pérez;462800;21;D C;Argentina
+Jean-Victor Makengo;421200;23;DM;France
+Lazar Samardžic;416000;19;AM LC;Germany
+Nahuel Molina;410800;23;D/WB/M R;Argentina
+Brandon Soppy;338000;19;D RC;France
+Daniele Padelli;332800;35;GK;Italy
+Antonio Santurro;182000;29;GK;Italy
+Beto;130000;23;AM R, ST;Guinea-Bissau
+Jan Kubala;43160;21;AM RLC;Czech Republic
+Simone Ianesi;14040;19;AM R, ST;Italy
+Andrea Di Lazzaro;11440;16;D R;Italy
+Matteo Carnelos;11440;18;GK;Italy
+Francesco Di Bartolo Zuccarello;11440;16;GK;Italy
+Zlatan Ibrahimovic;9100000;39;ST;Sweden
+Brahim Díaz;5564000;21;AM RLC;Spain
+Alessio Romagnoli;5512000;26;D C;Italy
+Alessandro Florenzi;4888000;30;D/WB/AM R;Italy
+Tiémoué Bakayoko;4836000;26;DM;France
+Ante Rebic;4680000;27;AM L, ST;Croatia
+Olivier Giroud;4472000;34;ST;France
+Franck Kessié;3588000;24;DM;Ivory Coast
+Mike Maignan;3588000;26;GK;France
+Andrea Conti;3328000;27;D/WB/M R;Italy
+Davide Calabria;3276000;24;D/WB RL;Italy
+Fikayo Tomori;2704000;23;D C;England
+Ismael Bennacer;2444000;23;DM;Algeria
+Samu Castillejo;2288000;26;AM RLC;Spain
+Sandro Tonali;1820000;21;DM;Italy
+Theo Hernández;1768000;23;D/WB/M L;France
+Rafael Leão;1716000;22;AM LC, F C;Portugal
+Rade Krunic;1612000;27;AM C;Bosnia & Herzegovina
+Antonio Mirante;1560000;38;GK;Italy
+Alexis Saelemaekers;1456000;22;WB/AM R;Belgium
+Simon Kjaer;1456000;32;D C;Denmark
+Ciprian Tatarusanu;1456000;35;GK;Romania
+Fodé Ballo-Touré;1404000;24;D/WB/M L;Senegal
+Pietro Pellegri;988000;20;ST;Italy
+Matteo Gabbia;884000;21;D C;Italy
+Pierre Kalulu;728000;21;D RC;France
+Alessandro Plizzari;494000;21;GK;Italy
+Daniel Maldini;488800;19;AM RLC;Italy
+Junior Messias;161200;30;AM RC, F C;Brazil
+Lenny Borges;50440;20;D/WB R;Germany
+Álvaro Odriozola;5460000;25;D/WB R;Spain
+Lucas Torreira;3900000;25;DM;Uruguay
+Nikola Milenkovic;3900000;23;D RC;Serbia
+José Callejón;3484000;34;AM R;Spain
+Nicolás González;3172000;23;AM RL, ST;Argentina
+Alexandr Kokorin;2496000;30;AM RC, F C;Russia
+Giacomo Bonaventura;2444000;31;AM LC;Italy
+Gaetano Castrovilli;2288000;24;AM C;Italy
+Alfred Duncan;2236000;28;DM;Ghana
+Matija Nastasic;2184000;28;D C;Serbia
+Erick Pulgar;2184000;27;DM;Chile
+Cristiano Biraghi;2028000;28;D/WB/M L;Italy
+Sofyan Amrabat;1820000;24;DM;Morocco
+Marco Benassi;1664000;26;AM C;Italy
+Riccardo Saponara;1456000;29;AM LC, F C;Italy
+Bartlomiej Dragowski;1404000;23;GK;Poland
+Lucas Martínez Quarta;1300000;25;D C;Argentina
+Igor;988000;23;D LC;Brazil
+Youssef Maleh;884000;22;DM, AM LC;Morocco
+Riccardo Sottil;832000;22;AM RL;Italy
+Lorenzo Venuti;624000;26;D RLC, M R;Italy
+Aleksa Terzic;494000;21;D/WB/M L;Serbia
+Pietro Terracciano;457600;31;GK;Italy
+Antonio Rosati;286000;38;GK;Italy
+Martin Graiciar;150800;22;AM R, ST;Czech Republic
+Michele Cerofolini;150800;22;GK;Italy
+Federico Brancolini;67600;19;GK;Italy
+Jakob Vadstrup;57200;17;D L;Denmark
+Louis Munteanu;52000;19;ST;Romania
+Mattia Trovato;42640;23;AM RC;Italy
+Lorenzo Pellegrini;6344000;25;AM C;Italy
+Tammy Abraham;5824000;23;ST;England
+Stephan El Shaarawy;5512000;28;AM RL;Italy
+Chris Smalling;5044000;31;D C;England
+Leonardo Spinazzola;4732000;28;D/WB/M L;Italy
+Jordan Veretout;4732000;28;DM;France
+Henrikh Mkhitaryan;4576000;32;AM RLC;Armenia
+Amadou Diawara;4108000;23;DM;Guinea
+Federico Fazio;4056000;34;D C;Argentina
+Nicolò Zaniolo;3900000;22;AM RLC;Italy
+Rui Patrício;3796000;33;GK;Portugal
+Gianluca Mancini;3224000;25;D C;Italy
+Bryan Cristante;3016000;26;DM;Italy
+Rick Karsdorp;2756000;26;D/WB R;Holland
+Carles Pérez;2704000;23;AM RLC;Spain
+Davide Santon;2496000;30;D/WB RL;Italy
+Ainsley Maitland-Niles;2496000;23;D/WB RL, DM;England
+Ibanez;2444000;22;D C;Brazil
+Eldor Shomurodov;2028000;26;AM L, ST;Uzbekistan
+Gonzalo Villar;1612000;23;DM;Spain
+Matías Viña;1612000;23;D/WB L;Uruguay
+Marash Kumbulla;1508000;21;D C;Albania
+Borja Mayoral;988000;24;ST;Spain
+Riccardo Calafiori;988000;19;D/WB/M L;Italy
+Alessio Riccardi;936000;20;AM C;Italy
+Daniel Fuzato;884000;24;GK;Brazil
+Bryan Reynolds;286000;20;D/WB R;U.S.A.
+Edoardo Bove;171600;19;DM;Italy
+Nicola Zalewski;150800;19;AM RLC;Poland
+Ebrima Darboe;119600;20;DM;The Gambia
+Mattia Caldara;3432000;27;D C;Italy
+Sergio Romero;1612000;34;GK;Argentina
+Dor Peretz;1508000;26;DM;Israel
+Jacopo Dezi;1352000;29;AM C;Italy
+Arnór Sigurosson;988000;22;AM RLC;Iceland
+Francesco Forte;780000;28;ST;Italy
+Sofian Kiyine;676000;23;WB L, AM LC;Morocco
+David Okereke;676000;23;AM R, ST;Nigeria
+Ethan Ampadu;624000;20;D C, DM;Wales
+Gianluca Busio;624000;19;DM, AM C;U.S.A.
+Thomas Henry;520000;26;ST;France
+David Schnegg;488800;22;D/WB/M L;Austria
+Marco Modolo;462800;32;D C;Italy
+Riccardo Bocalon;452400;32;ST;Italy
+Cristian Molinaro;436800;37;D/WB L;Italy
+Daan Heymans;436800;22;AM C;Belgium
+Dennis Johnsen;436800;23;AM RL;Norway
+Ridgeciano Haps;400400;28;D/WB/AM L;Suriname
+Niki Maenpaa;358800;36;GK;Finland
+Domen Crnigoj;280800;25;AM RC;Slovenia
+Tyronne Ebuehi;239200;25;D/WB RL, M R;Nigeria
+Luca Fiordilino;208000;24;DM;Italy
+Lauri Ala-Myllymaki;156000;24;AM/F C;Finland
+Pasquale Mazzocchi;145600;25;D/WB/AM R;Italy
+Tanner Tessmann;135200;19;DM;U.S.A.
+Antonio Vacca;130000;31;DM;Italy
+Bjarki Steinn Bjarkason;130000;21;AM RLC;Iceland
+Jack De Vries;109200;19;AM RL;U.S.A.
+Mattia Aramu;98800;26;AM RLC, F C;Italy
+Damiano Pecile;72800;19;DM;Canada

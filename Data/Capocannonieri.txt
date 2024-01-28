@@ -1,0 +1,34 @@
+Season,Competition Name,# Squads,Champion,Top Scorer,Goals Top Scorer
+2020-2021,Serie A,20,Internazionale,Cristiano Ronaldo,29
+2019-2020,Serie A,20,Juventus,Ciro Immobile,36
+2018-2019,Serie A,20,Juventus,Fabio Quagliarella,26
+2017-2018,Serie A,20,Juventus,Ciro Immobile Mauro Icardi,29
+2016-2017,Serie A,20,Juventus,Edin Džeko,29
+2015-2016,Serie A,20,Juventus,Gonzalo Higuaín,36
+2014-2015,Serie A,20,Juventus,Mauro Icardi Luca Toni,22
+2013-2014,Serie A,20,Juventus,Ciro Immobile,22
+2012-2013,Serie A,20,Juventus,Edinson Cavani,29
+2011-2012,Serie A,20,Juventus,Zlatan Ibrahimović,28
+2010-2011,Serie A,20,Milan,Antonio Di Natale,28
+2009-2010,Serie A,20,Internazionale,Antonio Di Natale,29
+2008-2009,Serie A,20,Internazionale,Zlatan Ibrahimović,25
+2007-2008,Serie A,20,Internazionale,Alessandro Del Piero,21
+2006-2007,Serie A,20,Internazionale,Francesco Totti,26
+2005-2006,Serie A,20,Internazionale,Luca Toni,31
+2004-2005,Serie A,20,Juventus,Cristiano Lucarelli,24
+2003-2004,Serie A,18,Milan,Andriy Shevchenko,24
+2002-2003,Serie A,18,Juventus,Christian Vieri,24
+2001-2002,Serie A,18,Juventus,David Trezeguet Dario Hübner,24
+2000-2001,Serie A,18,Roma,Hernán Crespo,26
+1999-2000,Serie A,18,Lazio,Andriy Shevchenko,24
+1998-1999,Serie A,18,Milan,Márcio Amoroso,22
+1997-1998,Serie A,18,Juventus,Oliver Bierhoff,27
+1996-1997,Serie A,18,Juventus,Filippo Inzaghi,24
+1995-1996,Serie A,18,Milan,Giuseppe Signori Igor Protti,24
+1994-1995,Serie A,18,Juventus,Gabriel Batistuta,26
+1993-1994,Serie A,18,Milan,Giuseppe Signori,23
+1992-1993,Serie A,18,Milan,Giuseppe Signori,26
+1991-1992,Serie A,18,Milan,Marco van Basten,25
+1990-1991,Serie A,18,Sampdoria,Gianluca Vialli,19
+1989-1990,Serie A,18,Napoli,Marco van Basten,19
+1988-1989,Serie A,18,Internazionale,Aldo Serena,22

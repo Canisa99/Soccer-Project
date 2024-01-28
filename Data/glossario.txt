@@ -1,0 +1,21 @@
+--LEAGUE STATS--
+
+
+PPDA: numero di passaggi effettuati dalla squadra che imposta(squadra avversaria)/numero di intercetti,falli,tackle
+più è basso più alta la pressione effettuata
+
+DC:passaggi completati negli ultimi 20m
+
+
+
+
+
+
+
+
+
+
+--TEAM STATS--
+Open Play: tutto ciò che non è set piece
+Set Piece: gioco fermo (free kick, corner kick, throw-in...)
+    
